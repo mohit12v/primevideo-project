@@ -265,6 +265,7 @@ nav a:hover {
   width: 20vw;
   /* background-color: black; */
   transition: transform 1s;
+  
 }
 .movie-card:hover {
   transform: scale(1.1);
@@ -367,6 +368,7 @@ nav a:hover {
 .movie-card-wrapper-rank {
   counter-reset: movie-rank;
   position: relative;
+  z-index: 20;
 }
 .movie-card-rank {
   counter-increment: movie-rank;
