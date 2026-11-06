@@ -1,5 +1,5 @@
 
-   vercel host link = 
+   vercel host link = primevideo-project-1plk.vercel.app
 
 
 
